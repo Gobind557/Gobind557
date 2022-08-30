@@ -1,4 +1,4 @@
-Hemlo 👋🏽, I'm Gobind aka Pillu:)
+Hola! , I'm Gobind aka Pillu:)
 A prefinale  at the Thapar Institute of Engineering and Technology. 
 <!-- <br /> -->
 I prefer MERN stack for development .  Beside's programming, I workout a bit
