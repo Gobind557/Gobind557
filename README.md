@@ -29,8 +29,15 @@ Languages and Tools:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-<div align='center'>
+<div align='left'>
   <h2>Connect with me :<h2/>
   <a href="https://www.instagram.com/gobind9778/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
   <a href="https://www.linkedin.com/in/gobind-singh-b359221ba/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 </div>
+
+👇 Hit in your console or terminal with node installed, to connect with me.
+
+```bash
+npx pilu
+```
+**👆 This command line tool can be found at [npx pilu](https://github.com/Gobind557/npx-card)**
