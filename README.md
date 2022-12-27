@@ -9,7 +9,7 @@ Personal Tech Updates:
 
 🔭 I’m currently working on Web Development projects.
 <!-- <br /> -->
-👯 I’m looking to collaborate on Full stack projects.
+👯 I’m looking to collaborate on MERN projects.
 <!-- <br /> -->
 💬 Looking for guidance in Data Structures and Algorithms
 
