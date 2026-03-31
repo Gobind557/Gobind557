@@ -1,43 +1,104 @@
-Hola! , I'm Gobind aka Pillu:)
-A prefinale  at the Thapar Institute of Engineering and Technology. 
-<!-- <br /> -->
-I prefer MERN stack for development .  Beside's programming, I workout a bit
-<img align="right" height="230" alt="GIF" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gobind+Singh+👋;Software+Engineer+%7C+Frontend+Focused;Building+Real-Time+Systems+⚡;React+%7C+Node+%7C+Redis+%7C+System+Design" />
+</p>
 
-Personal Tech Updates:
+>
+
+---
+
+# Hi, I'm Gobind Singh 👋
+
+<table>
+<tr>
+<td width="60%">
+
+Software Engineer with experience building scalable frontend systems and real-time full-stack applications. Currently working at Care Health Insurance, contributing to high-impact products serving **500k+ users**.
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+**Software Engineer @ Care Health Insurance**  
+- Improved UI performance and responsiveness for large-scale applications (500k+ users)
+- Reduced API latency by ~20% using optimized data fetching (Redux RTK)
+- Improved load times by ~35% using Next.js SSR and image optimization
+- Built reusable component systems (50+ components) for internal teams
+- Worked on role-based workflows, secure authentication, and scalable APIs
+
+---
+
+## 🚀 Featured Work
 
 
-🔭 I’m currently working on Web Development projects.
-<!-- <br /> -->
-👯 I’m looking to collaborate on MERN projects.
-<!-- <br /> -->
-💬 Looking for guidance in Data Structures and Algorithms
 
-📫 Contact Me : gobindjeet78@gmail.com
-<!-- <br /> -->
-Languages and Tools:
+### 🔹 Lumina – AI Sales Copilot
+- Event-driven backend using **Redis + BullMQ**
+- Supports async processing of **150+ emails/min**
+- Built real-time dashboard with React + TypeScript
+- Integrated OAuth, webhooks, and AI-based personalization
 
- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+---
 
-<div align='left'>
-  <h2>Connect with me :<h2/>
-  <a href="https://www.instagram.com/gobind9778/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-  <a href="https://www.linkedin.com/in/gobind-singh-b359221ba/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-</div>
+## 🧠 Technical Skills
 
-👇 Hit in your console or terminal with node installed, to connect with me.
+**Frontend**
+- React.js, Next.js, TypeScript, Tailwind CSS, Redux
 
-```bash
-npx pilu
-```
-**👆 This command line tool can be found at [npx pilu](https://github.com/Gobind557/npx-card)**
+**Backend**
+- Node.js, Express, Nest.js, REST APIs
+
+**Systems & Infra**
+- Redis, BullMQ, WebSockets, AWS S3, Docker, CI/CD
+
+**Database**
+- MongoDB, PostgreSQL, MySQL
+
+---
+
+## 🧩 What I Focus On
+
+- Real-time systems (Socket.io, event-driven architecture)
+- Scalable frontend architecture
+- Performance optimization (SSR, caching, API efficiency)
+- Clean system design with separation of concerns
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=Gobind557&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gobind557&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gobind557&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Contact
+
+- Email: gobindjeet78@gmail.com  
+- GitHub: https://github.com/Gobind557  
+- LinkedIn: https://www.linkedin.com/in/gobind-singh-b359221ba/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that feel fast, real-time, and production-ready 🚀
